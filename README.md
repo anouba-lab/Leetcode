@@ -14,6 +14,7 @@
 | [3421-find-students-who-improved](https://github.com/anouba-lab/Leetcode/tree/master/3421-find-students-who-improved) |
 | [3436-find-valid-emails](https://github.com/anouba-lab/Leetcode/tree/master/3436-find-valid-emails) |
 | [3451-find-invalid-ip-addresses](https://github.com/anouba-lab/Leetcode/tree/master/3451-find-invalid-ip-addresses) |
+| [3465-find-products-with-valid-serial-numbers](https://github.com/anouba-lab/Leetcode/tree/master/3465-find-products-with-valid-serial-numbers) |
 | [3475-dna-pattern-recognition](https://github.com/anouba-lab/Leetcode/tree/master/3475-dna-pattern-recognition) |
 | [3521-find-product-recommendation-pairs](https://github.com/anouba-lab/Leetcode/tree/master/3521-find-product-recommendation-pairs) |
 <!---LeetCode Topics End-->
