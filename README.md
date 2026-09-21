@@ -17,4 +17,5 @@
 | [3465-find-products-with-valid-serial-numbers](https://github.com/anouba-lab/Leetcode/tree/master/3465-find-products-with-valid-serial-numbers) |
 | [3475-dna-pattern-recognition](https://github.com/anouba-lab/Leetcode/tree/master/3475-dna-pattern-recognition) |
 | [3521-find-product-recommendation-pairs](https://github.com/anouba-lab/Leetcode/tree/master/3521-find-product-recommendation-pairs) |
+| [3564-seasonal-sales-analysis](https://github.com/anouba-lab/Leetcode/tree/master/3564-seasonal-sales-analysis) |
 <!---LeetCode Topics End-->
