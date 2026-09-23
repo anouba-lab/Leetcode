@@ -16,6 +16,7 @@
 | [3451-find-invalid-ip-addresses](https://github.com/anouba-lab/Leetcode/tree/master/3451-find-invalid-ip-addresses) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/anouba-lab/Leetcode/tree/master/3465-find-products-with-valid-serial-numbers) |
 | [3475-dna-pattern-recognition](https://github.com/anouba-lab/Leetcode/tree/master/3475-dna-pattern-recognition) |
+| [3497-analyze-subscription-conversion](https://github.com/anouba-lab/Leetcode/tree/master/3497-analyze-subscription-conversion) |
 | [3521-find-product-recommendation-pairs](https://github.com/anouba-lab/Leetcode/tree/master/3521-find-product-recommendation-pairs) |
 | [3564-seasonal-sales-analysis](https://github.com/anouba-lab/Leetcode/tree/master/3564-seasonal-sales-analysis) |
 | [3611-find-overbooked-employees](https://github.com/anouba-lab/Leetcode/tree/master/3611-find-overbooked-employees) |
