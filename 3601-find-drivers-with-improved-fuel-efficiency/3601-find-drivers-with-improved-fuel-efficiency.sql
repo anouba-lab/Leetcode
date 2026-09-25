@@ -4,8 +4,8 @@ WITH tab_a AS (
         *,
         distance_km/fuel_consumed AS fuel_efficiency,
         CASE 
-            WHEN MONTH(trip_date) IN (1, 2, 3, 4, 5, 6) THEN "first_half"
-            WHEN MONTH(trip_date) IN (7, 8, 9, 10, 11, 12) THEN "second_half"
+            WHEN MONTH(trip_date) < 7 THEN "first_half"
+            WHEN MONTH(trip_date) > 6 THEN "second_half"
         END AS term
     FROM trips
 )
