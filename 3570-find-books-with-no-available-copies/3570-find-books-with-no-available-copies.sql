@@ -10,5 +10,5 @@ FROM library_books b JOIN borrowing_records r
     ON b.book_id = r.book_id
 WHERE r.return_date IS NULL
 GROUP BY b.book_id
-HAVING COUNT(r.record_id) = MAX(b.total_copies)
+HAVING current_borrowers = MAX(b.total_copies)
 ORDER BY 6 DESC, 2 ASC;
