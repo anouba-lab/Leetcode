@@ -4,6 +4,7 @@
 ## Database
 |  |
 | ------- |
+| [0184-department-highest-salary](https://github.com/anouba-lab/Leetcode/tree/master/0184-department-highest-salary) |
 | [0262-trips-and-users](https://github.com/anouba-lab/Leetcode/tree/master/0262-trips-and-users) |
 | [1174-immediate-food-delivery-ii](https://github.com/anouba-lab/Leetcode/tree/master/1174-immediate-food-delivery-ii) |
 | [1484-group-sold-products-by-the-date](https://github.com/anouba-lab/Leetcode/tree/master/1484-group-sold-products-by-the-date) |
