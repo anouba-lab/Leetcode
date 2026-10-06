@@ -6,6 +6,7 @@
 | ------- |
 | [0262-trips-and-users](https://github.com/anouba-lab/Leetcode/tree/master/0262-trips-and-users) |
 | [1174-immediate-food-delivery-ii](https://github.com/anouba-lab/Leetcode/tree/master/1174-immediate-food-delivery-ii) |
+| [1484-group-sold-products-by-the-date](https://github.com/anouba-lab/Leetcode/tree/master/1484-group-sold-products-by-the-date) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/anouba-lab/Leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1795-rearrange-products-table](https://github.com/anouba-lab/Leetcode/tree/master/1795-rearrange-products-table) |
 | [1873-calculate-special-bonus](https://github.com/anouba-lab/Leetcode/tree/master/1873-calculate-special-bonus) |
