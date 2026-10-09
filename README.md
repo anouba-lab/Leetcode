@@ -28,4 +28,8 @@
 | [3586-find-covid-recovery-patients](https://github.com/anouba-lab/Leetcode/tree/master/3586-find-covid-recovery-patients) |
 | [3601-find-drivers-with-improved-fuel-efficiency](https://github.com/anouba-lab/Leetcode/tree/master/3601-find-drivers-with-improved-fuel-efficiency) |
 | [3611-find-overbooked-employees](https://github.com/anouba-lab/Leetcode/tree/master/3611-find-overbooked-employees) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/anouba-lab/Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
