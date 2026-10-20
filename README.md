@@ -8,6 +8,7 @@
 | [0180-consecutive-numbers](https://github.com/anouba-lab/Leetcode/tree/master/0180-consecutive-numbers) |
 | [0184-department-highest-salary](https://github.com/anouba-lab/Leetcode/tree/master/0184-department-highest-salary) |
 | [0262-trips-and-users](https://github.com/anouba-lab/Leetcode/tree/master/0262-trips-and-users) |
+| [1158-market-analysis-i](https://github.com/anouba-lab/Leetcode/tree/master/1158-market-analysis-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/anouba-lab/Leetcode/tree/master/1174-immediate-food-delivery-ii) |
 | [1484-group-sold-products-by-the-date](https://github.com/anouba-lab/Leetcode/tree/master/1484-group-sold-products-by-the-date) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/anouba-lab/Leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
