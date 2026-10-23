@@ -49,9 +49,14 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anouba-lab/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/anouba-lab/Leetcode/tree/master/0013-roman-to-integer) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/anouba-lab/Leetcode/tree/master/0013-roman-to-integer) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/anouba-lab/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
