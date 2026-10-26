@@ -4,6 +4,7 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/anouba-lab/Leetcode/tree/master/0175-combine-two-tables) |
 | [0177-nth-highest-salary](https://github.com/anouba-lab/Leetcode/tree/master/0177-nth-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/anouba-lab/Leetcode/tree/master/0180-consecutive-numbers) |
 | [0184-department-highest-salary](https://github.com/anouba-lab/Leetcode/tree/master/0184-department-highest-salary) |
