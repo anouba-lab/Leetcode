@@ -8,6 +8,7 @@
 | [0177-nth-highest-salary](https://github.com/anouba-lab/Leetcode/tree/master/0177-nth-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/anouba-lab/Leetcode/tree/master/0180-consecutive-numbers) |
 | [0184-department-highest-salary](https://github.com/anouba-lab/Leetcode/tree/master/0184-department-highest-salary) |
+| [0196-delete-duplicate-emails](https://github.com/anouba-lab/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0262-trips-and-users](https://github.com/anouba-lab/Leetcode/tree/master/0262-trips-and-users) |
 | [1158-market-analysis-i](https://github.com/anouba-lab/Leetcode/tree/master/1158-market-analysis-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/anouba-lab/Leetcode/tree/master/1174-immediate-food-delivery-ii) |
