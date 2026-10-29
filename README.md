@@ -58,8 +58,17 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/anouba-lab/Leetcode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/anouba-lab/Leetcode/tree/master/0020-valid-parentheses) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anouba-lab/Leetcode/tree/master/0001-two-sum) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/anouba-lab/Leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/anouba-lab/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
