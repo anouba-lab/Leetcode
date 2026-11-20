@@ -1,16 +1,15 @@
-# Write your MySQL query statement below
-WITH max_sal AS (
+WITH tab_a AS (
     SELECT
+        id,
+        name,
+        salary,
         departmentId,
-        MAX(salary)
+        DENSE_RANK() OVER(PARTITION BY departmentId ORDER BY salary DESC) AS d_rank
     FROM Employee
-    GROUP BY 1
 )
-
 SELECT
-    DISTINCT d.name AS Department,
-    e.name AS Employee,
-    e.salary AS Salary
-FROM Employee e JOIN Department d 
-    ON e.departmentId = d.id 
-WHERE (d.id, e.salary) IN (SELECT * FROM max_sal);
+    d.name AS Department,
+    t.name AS Employee,
+    t.salary AS Salary
+FROM Department d JOIN tab_a t ON d.id = t.departmentId
+WHERE t.d_rank = 1
