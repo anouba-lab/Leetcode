@@ -16,6 +16,7 @@
 | [0585-investments-in-2016](https://github.com/anouba-lab/Leetcode/tree/master/0585-investments-in-2016) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/anouba-lab/Leetcode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0608-tree-node](https://github.com/anouba-lab/Leetcode/tree/master/0608-tree-node) |
+| [0620-not-boring-movies](https://github.com/anouba-lab/Leetcode/tree/master/0620-not-boring-movies) |
 | [1158-market-analysis-i](https://github.com/anouba-lab/Leetcode/tree/master/1158-market-analysis-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/anouba-lab/Leetcode/tree/master/1174-immediate-food-delivery-ii) |
 | [1321-restaurant-growth](https://github.com/anouba-lab/Leetcode/tree/master/1321-restaurant-growth) |
